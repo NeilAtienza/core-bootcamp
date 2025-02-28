@@ -1,0 +1,24 @@
+{
+    "name": "Emul",
+    "description": "Emul cry",
+    "symbol": "EM",
+    "image": "https://i.imgur.com/kAeps5Z.jpeg",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "Emul Carrot"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "emul.quest"
+        }
+    ]
+}
